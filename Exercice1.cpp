@@ -11,6 +11,6 @@ int main()
     {
         fac = fac * i;
     }
-    cout << "La factorielle de " << n << " est " << facto << std::endl;
+    cout << "La factorielle de " << n << " est " << facto << endl;
     return 0;
 }
